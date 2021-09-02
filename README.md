@@ -18,8 +18,9 @@
 <br>
 <br>
 
-This is Abhishek Rao, pursuing undergraduation in Computer Science and Engineering from Central University Of Haryana. 
-I am an Open Source Enthusiast ❤️ and also interested in Web Development 💻. Currently working on my Backend-End Skills 🚀
+I'm a CSE undergraduate pursuing B.Tech and a passionate web developer and eager to expand my skills and learn as more as I move forward.
+I'm a passionate programmer who enjoys challenges and working on new technologies. I have experience working with Agile processes and continuous development, which I would like to use to deliver projects that add value.
+I am interested in learning new technologies used to solve exciting challenges and in creating new and exciting solutions to the real world problems.
 
 
 
