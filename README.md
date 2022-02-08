@@ -28,7 +28,7 @@ I am interested in learning new technologies used to solve exciting challenges a
 - 🌱 I’m currently learning Cyber Security Tips
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ... -->
-<!-- - 🔗 Portfolio Link :- https://abhishek-rao-191882.github.io/github-pages/  -->
+- 🔗 Portfolio Link :- https://abhishek-rao-portfolio.herokuapp.com/ 
 - 📱 Linkedin :- https://www.linkedin.com/in/abhishek-rao-16b6218b/
 <!-- - 💬 Ask me about ...
 - 📫 How to reach me: ...
