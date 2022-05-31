@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
   <img align="left" alt="Abhishek Rao | Discord" width="30px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/discord.png" />
 </a>
-<a href="https://twitter.com/Abhishe64042022">
+<a href="https://twitter.com/__Abhishek__Rao">
   <img align="left" alt="Abhishek Rao | Twitter" width="30px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/twitter.png" />
 </a>
 <a href="https://www.instagram.com/__me_abhishek_rao/">
