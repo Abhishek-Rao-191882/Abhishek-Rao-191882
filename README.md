@@ -1,4 +1,5 @@
-### Hi there, I'm [Abhishek Rao!](https://abhishek-rao-191882.github.io/portfolio/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
+### Hi there, I'm [Abhishek Rao!](https://abhishek-rao-191882.github.io/portfolio/) 
+<!-- <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 <a href="https://www.linkedin.com/in/abhishek-rao-16b6218b/">
   <img align="left" alt="Abhishek Rao | linkedIn" width="30px" src="https://github.com/Abhishek-Rao-191882/AbhishekRao/blob/main/Assets/linkedIn.png" />
 </a>
