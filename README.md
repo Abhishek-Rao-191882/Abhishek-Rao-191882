@@ -26,7 +26,7 @@ I am interested in learning new technologies used to solve exciting challenges a
 
 
 - 🔭 I’m currently working on open source projects
-- 🌱 I’m currently learning Cyber Security Tips
+- 🌱 I’m currently learning Cyber Security 
 - 🔗 Ongoing Project - http://www.cuhplacementcell.tk (Website for Central University of Haryana- Placement Cell)
 - 🔗 Portfolio Link :- [visit my portfolio](https://portfolio-eight-iota-45.vercel.app/) 
 - 📱 Linkedin :- https://www.linkedin.com/in/abhishek-rao-16b6218b/
